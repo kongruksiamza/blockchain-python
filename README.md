@@ -1,7 +1,3 @@
-## 🚀 Guideline & Documents
-- แนวทางการเรียนรู้การเขียนโปรแกรมภาษา Python (Python Guideline) [อ่านบทความ](https://github.com/kongruksiamza/python-guideline)
-- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
-
 ## 🎓 คอร์สเรียนที่น่าสนใจ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 - [Blockchain & Smart Contract สำหรับผู้เริ่มต้น](https://www.udemy.com/course/blockchain-smart-contract/?referralCode=278229F9A1FD213EF855)
 
